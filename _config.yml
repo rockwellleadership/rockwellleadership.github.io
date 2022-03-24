@@ -19,6 +19,7 @@ url: https://rockwellleadership.com
 # You may also provide a location, e.g.: en-us, de_AT.
 lang: en
 favicon: /assets/icons/favicon.ico
+apple_touch_icon: /assets/icons/apple_icon.png
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Rockwell Leadership Solutions
